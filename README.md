@@ -26,7 +26,7 @@ I am a builder focused on the intersection of low-level hardware and resilient m
 
 ### 🏆 Featured Architecture
 
-#### 🦚 [Maargdarshan: AI-Enabled Smart Navigation Ecosystem](YOUR_GITHUB_REPO_LINK)
+#### 🦚 [Maargdarshan: AI-Enabled Smart Navigation Ecosystem](https://github.com/KingDev4522/MaargDarshan-AI-Enabled-Blind-Navigation-Cap-ShowCase)
 *A decentralized IoT mobility ecosystem for the visually impaired. (Patent Pending)*
 * **Embedded Hardware:** Engineered the embedded C/C++ logic for a custom wearable apparatus, integrating a spatial sensor array and calibrating zero-latency localized haptic feedback.
 * **Mobile AI Router:** Co-developed a persistent native mobile application designed to operate in a headless ambient state, serving as the primary voice-navigated AI router.
