@@ -1,5 +1,5 @@
 # 👨‍💻 Mehul Kumar Jaiswal
-**Mobile Architecture | Embedded Systems | CS Student**
+**Backend Developer | Embedded Systems | Mobile Architecture**
 
 > "Software is just theory until it interacts with the physical world."
 
@@ -10,29 +10,33 @@ I am a driven 1st-year B.Tech student and builder focused on bridging the gap be
 ### ⚡ Engineering Focus
 
 * **Embedded Systems & Hardware:** Engineering C/C++ logic for custom hardware, integrating spatial sensor arrays, and calibrating localized haptic feedback (Arduino, ESP32).
-* **Resilient Mobile Architecture:** Co-developing persistent native applications (Kotlin, Flutter) capable of running headless, background AI processes and OS-bypassing emergency pipelines.
-* **Core Software Foundations:** Actively strengthening computational thinking through data structures (Arrays, Linked Lists), Object-Oriented Programming (OOP), and algorithmic problem-solving.
+* **Resilient Mobile Architecture:** Co-developing persistent native applications (Kotlin, Flutter/Dart) capable of running headless, background AI processes and OS-bypassing emergency pipelines.
+* **Core Software Foundations:** Actively strengthening computational thinking through data structures (Arrays, Linked Lists), Object-Oriented Programming (classes, encapsulation), and building console applications with File I/O.
 * **Telemetry Routing:** Bridging hardware and mobile via secure data pipelines for live optical streaming and automated SOS dispatch.
+* **Backend Servers & Telemetry Pipelines:** Engineering robust Python API gateways to bridge hardware and mobile nodes. I focus on implementing secure, low-latency data pipelines for live optical streaming, high-frequency sensor telemetry, and automated SOS dispatch routing.
 
 ---
 
 ### 🛠️ The Toolkit
 
-* **Languages:** Python, Java, C/C++, Kotlin, Flutter, Dart
+* **Core Languages:** Python, Java, C/C++, Kotlin, Dart
+* **Frameworks & Tools:** Flutter, Git, GitHub
 * **Hardware/IoT:** ESP32, Arduino, Sensor Integration
-* **Concepts & Tools:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Git, GitHub
-* **Interests:** App Development, Cybersecurity, Hackathons
+* **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms
 
 ---
 
 ### 🏆 Featured Architecture
 
 #### 🦚 [Maargdarshan: AI-Enabled Smart Navigation Ecosystem](https://github.com/KingDev4522/MaargDarshan-AI-Enabled-Blind-Navigation-Cap-ShowCase)
-*A decentralized IoT mobility ecosystem for the visually impaired. (Patent Pending)*
+*A decentralized IoT mobility ecosystem for the visually impaired. (Patent Pending) [Team Project - AI, App, Backend & Embedded System Co-Developer]*
+
 * **Live Prototypes:** 🌐 [View Caretaker Dashboard](https://maarg-darshan.vercel.app/) | 📱 [Download Beta APK](https://drive.google.com/file/d/1kAw5_C6xUDN8_BLvVMUVQd9Q_YRHFo8i/view)
+> *Note: These are active beta prototypes meant for demonstration and testing purposes.*
 * **Embedded Systems & Hardware:** Engineered embedded C/C++ logic for a custom wearable IoT apparatus, integrating a multi-directional spatial sensor array and calibrating zero-latency localized haptic feedback.
 * **Mobile Architecture:** Co-developed a persistent native mobile application designed to operate in a headless ambient state, serving as the primary voice-navigated AI router for the visually impaired user.
 * **Telemetry & Emergency Routing:** Programmed the integration between the hardware node and mobile device, implementing live optical telemetry streaming and an OS-bypassing SOS dispatch system.
+* **Backend Routing Server:** Engineered a robust Python API gateway to bridge the hardware and mobile nodes, implementing secure data pipelines for live optical telemetry streaming and an OS-bypassing SOS dispatch system.
 
 ---
 
