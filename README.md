@@ -56,4 +56,4 @@ Always open to discussing mobile architecture, embedded systems, cybersecurity c
 <a href="https://wa.me/919330302286" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
-📄 **[Download my full Resume here](https://github.com/mehul18ji/mehul18ji/raw/main/Mehul_Kumar_Jaiswal_Resume.pdf)**
+📄 **[Download my full Resume here](https://github.com/mehul18ji/mehul18ji/raw/main/mehul_resume.pdf)**
