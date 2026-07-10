@@ -3,7 +3,9 @@
 
 > "Software is just theory until it interacts with the physical world."
 
-I am a driven 1st-year B.Tech Computer Science student and builder focused on bridging the gap between foundational programming logic and real-world applications. I specialize in backend logic, API architecture, and embedded systems—translating core concepts into functional, scalable ecosystems. Constantly learning, debugging, and building.
+I am a 2nd-year B.Tech Computer Science student and proactive system architect dedicated to bridging the gap between foundational code and real-world impact. Specializing in backend logic, scalable API architecture, and embedded systems, I focus on translating raw programming concepts into fully functional ecosystems. 
+
+From engineering memory-safe C databases with custom access controls to building hardware-integrated IoT platforms, I thrive on tackling complex problems. Whether I am optimizing server-side execution, routing live telemetry, or soldering sensor arrays, my goal is always the same: writing efficient, scalable code that solves actual problems.
 
 ---
 
