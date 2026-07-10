@@ -60,7 +60,7 @@ From engineering memory-safe C databases with custom access controls to building
 ### 📜 Accolades & Trophies
 * 🥇 **1st Place (App Development Competition: App-E-Teaser)** - JISTech 2K26
 * 🥉 **2nd Runner-Up (Theme Based Project: AI Enabled System)** - JISTech 2K26
-* 🏅 **3rd Runner-Up (Crazy Build 2K26)** - JISTech 2K26
+* 🏅 **3rd Runner-Up (Crazy Build 2K26)**
 
 ---
 
