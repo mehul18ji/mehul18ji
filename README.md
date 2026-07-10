@@ -3,46 +3,62 @@
 
 > "Software is just theory until it interacts with the physical world."
 
-I am a driven 1st-year B.Tech student and builder focused on bridging the gap between foundational programming logic and real-world applications. I strengthen my core skills by moving beyond theory—from building algorithmic console tools to engineering hardware-integrated mobile apps. Constantly learning, debugging, and building.
+I am a driven 1st-year B.Tech Computer Science student and builder focused on bridging the gap between foundational programming logic and real-world applications. I specialize in backend logic, API architecture, and embedded systems—translating core concepts into functional, scalable ecosystems. Constantly learning, debugging, and building.
 
 ---
 
 ### ⚡ Engineering Focus
 
+* **Backend Servers & API Architecture:** Engineering robust Python/FastAPI gateways to bridge hardware and mobile nodes. I focus on implementing secure, low-latency data pipelines, real-time web scraping engines, and in-memory context accumulators.
 * **Embedded Systems & Hardware:** Engineering C/C++ logic for custom hardware, integrating spatial sensor arrays, and calibrating localized haptic feedback (Arduino, ESP32).
 * **Resilient Mobile Architecture:** Co-developing persistent native applications (Kotlin, Flutter/Dart) capable of running headless, background AI processes and OS-bypassing emergency pipelines.
-* **Core Software Foundations:** Actively strengthening computational thinking through data structures (Arrays, Linked Lists), Object-Oriented Programming (classes, encapsulation), and building console applications with File I/O.
-* **Telemetry Routing:** Bridging hardware and mobile via secure data pipelines for live optical streaming and automated SOS dispatch.
-* **Backend Servers & Telemetry Pipelines:** Engineering robust Python API gateways to bridge hardware and mobile nodes. I focus on implementing secure, low-latency data pipelines for live optical streaming, high-frequency sensor telemetry, and automated SOS dispatch routing.
+* **Core Software Foundations:** Actively strengthening computational thinking through data structures, Object-Oriented Programming, and building secure, memory-safe console databases with File I/O and custom algorithms.
 
 ---
 
 ### 🛠️ The Toolkit
 
 * **Core Languages:** Python, Java, C/C++, Kotlin, Dart
-* **Frameworks & Tools:** Flutter, Git, GitHub
+* **Frameworks & Tools:** Flutter, FastAPI, Git, GitHub, REST APIs
 * **Hardware/IoT:** ESP32, Arduino, Sensor Integration
-* **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms
+* **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Role-Based Access Control (RBAC)
 
 ---
 
-### 🏆 Featured Architecture
+### 🏆 Featured Architecture & Projects
 
 #### 🦚 [Maargdarshan: AI-Enabled Smart Navigation Ecosystem](https://github.com/KingDev4522/MaargDarshan-AI-Enabled-Blind-Navigation-Cap-ShowCase)
 *A decentralized IoT mobility ecosystem for the visually impaired. (Patent Pending) [Team Project - AI, App, Backend & Embedded System Co-Developer]*
 
-* **Live Prototypes:** 🌐 [View Caretaker Dashboard](https://maarg-darshan.vercel.app/) | 📱 [Download Beta APK](https://drive.google.com/file/d/1OHvzxvoQ2N6sPeZ2uwdPeYnrd8-op_mm/view?usp=sharing)
+* **Live Prototypes:** 🌐 [View Web Portal](https://maarg-darshan.vercel.app/) | 📱 [Download Beta APK](https://drive.google.com/file/d/1OHvzxvoQ2N6sPeZ2uwdPeYnrd8-op_mm/view?usp=sharing)
 > *Note: These are active beta prototypes meant for demonstration and testing purposes.*
 * **Embedded Systems & Hardware:** Engineered embedded C/C++ logic for a custom wearable IoT apparatus, integrating a multi-directional spatial sensor array and calibrating zero-latency localized haptic feedback.
-* **Mobile Architecture:** Co-developed a persistent native mobile application designed to operate in a headless ambient state, serving as the primary voice-navigated AI router for the visually impaired user.
-* **Telemetry & Emergency Routing:** Programmed the integration between the hardware node and mobile device, implementing live optical telemetry streaming and an OS-bypassing SOS dispatch system.
-* **Backend Routing Server:** Engineered a robust Python API gateway to bridge the hardware and mobile nodes, implementing secure data pipelines for live optical telemetry streaming and an OS-bypassing SOS dispatch system.
+* **Mobile Architecture:** Co-developed a persistent native mobile application designed to operate in a headless ambient state, serving as the primary voice-navigated AI router.
+* **Backend Routing Server:** Engineered a robust Python API gateway acting as the ecosystem's central nervous system, managing real-time data flow, sensor telemetry routing, and bi-directional state synchronization between hardware nodes, the Web Portal, and Mobile app.
+
+#### 🧠 [Chanakya-AI: Real-Time Competitive Intelligence Engine](https://github.com/KingDev4522/Chanakya-AI)
+*A real-time corporate strategy and competitive intelligence platform. [Team Project - Co-Founder, Lead System Architect & Co-Backend Developer]*
+
+* **Tech Stack:** Python, FastAPI, Crawl4AI, REST APIs
+* **Backend Infrastructure:** Engineered the heavy backend infrastructure and scalable architecture for autonomous intelligence gathering.
+* **Autonomous Scraping & Routing:** Developed a complex API key rotation system and integrated the Crawl4AI engine to autonomously scrape, parse, and route live enterprise web data to the LLM pipeline.
+* **Zero-Latency Execution:** Optimized server-side execution and built an in-memory global context accumulator to bypass vector database overhead, ensuring immediate data delivery to the frontend.
+
+#### 🌾 [Crop Management Database System](https://github.com/mehul18ji/Crop-Management-System-Using-C)
+*A monolithic CLI-based AgriTech database. [Solo Project - Developer & System Architect]*
+
+* **Tech Stack:** C, Binary File Handling, RBAC, GCC
+* **System Architecture & Security:** Architected a custom 3-tier Role-Based Access Control (RBAC) system with secure credential verification and a fail-safe 3-attempt lockout mechanism.
+* **Algorithmic File Management:** Engineered full CRUD functionality via binary file streams (`.dat`) and developed a Temporary Substitution algorithm to safely execute in-place record deletions and updates without database corruption.
+* **Interoperability & Auditing:** Integrated a background module utilizing `<time.h>` for automated timestamped action logging, and built a data translation engine to export proprietary binary records into standard `.csv` format.
+* **Runtime Stability:** Ensured zero-crash system reliability by implementing strict input validation and manual buffer-clearing memory routines to gracefully handle user edge cases.
 
 ---
 
 ### 📜 Accolades & Trophies
 * 🥇 **1st Place (App Development Competition: App-E-Teaser)** - JISTech 2K26
 * 🥉 **2nd Runner-Up (Theme Based Project: AI Enabled System)** - JISTech 2K26
+* 🏅 **3rd Runner-Up (Crazy Build 2K26)** - JISTech 2K26
 
 ---
 
