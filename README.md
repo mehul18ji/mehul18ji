@@ -1,5 +1,5 @@
 # 👨‍💻 Mehul Kumar Jaiswal
-**Backend Developer | Embedded Systems | Mobile Architecture**
+**Backend Developer | AI | Embedded Systems | Mobile Architecture**
 
 > "Software is just theory until it interacts with the physical world."
 
