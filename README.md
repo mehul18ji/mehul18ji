@@ -3,7 +3,7 @@
 # 👨‍💻 Mehul Kumar Jaiswal
 **Full Stack Developer | AI | Embedded Systems | Mobile Architecture**
 
-> "Software is just theory until it interacts with the physical world."
+> "Code in the Cloud, Impact on the Ground."
 
 I am a 2nd-year B.Tech Computer Science student and proactive system architect dedicated to bridging the gap between foundational code and real-world impact. Specializing in backend logic, scalable API architecture, and embedded systems, I focus on translating raw programming concepts into fully functional ecosystems. 
 
