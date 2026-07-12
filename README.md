@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Blue and White Modern Business Profile LinkedIn Background Photo" src="https://github.com/user-attachments/assets/04b91f27-8c00-47d0-8b2b-730325963141" />
+<img width="1584" height="396" alt="LinkedIn Banner Now" src="https://github.com/user-attachments/assets/00ee12fd-2ec3-4cc5-b9bf-f31acc7174c9" />
+
 
 # 👨‍💻 Mehul Kumar Jaiswal
 **Full Stack Developer | AI | Embedded Systems | Mobile Architecture**
